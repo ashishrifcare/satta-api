@@ -23,4 +23,4 @@
 1. Clone this repository or copy the PHP file to your server:
 
 ```bash
-git clone https://github.com/ashishrifcare/auto-result-api.git
+git clone https://github.com/ashishrifcare/satta-api.git
